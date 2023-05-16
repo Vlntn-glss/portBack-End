@@ -19,7 +19,7 @@ import org.springframework.stereotype.Service;
 @Transactional
 public class UsuarioService {
 
-    @Autowired
+    @Autowired       
     iUsuarioRepository iusuarioRepository;
 
     public Optional<Usuario> getByNombreUsuario(String nombreUsuario) {

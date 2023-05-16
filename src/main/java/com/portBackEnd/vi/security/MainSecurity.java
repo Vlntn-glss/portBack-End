@@ -25,7 +25,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 public class MainSecurity {
 
     @Autowired
-    UserDetailsImpl userDetailsServiceImpl;
+    UserDetailsImpl userDatilsImpl;
     @Autowired
     JwtEntryPoint jwtEntryPoint;
 

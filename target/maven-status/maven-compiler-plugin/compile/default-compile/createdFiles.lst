@@ -1,4 +1,5 @@
 com\portBackEnd\vi\security\MainSecurity.class
+com\portBackEnd\vi\respository\RExperienciaImpl.class
 com\portBackEnd\vi\security\jwt\JwtEntryPoint.class
 com\portBackEnd\vi\security\Service\Shys.class
 com\portBackEnd\vi\security\Service\RolService.class
@@ -11,6 +12,7 @@ com\portBackEnd\vi\entity\Persona.class
 com\portBackEnd\vi\ViApplication.class
 com\portBackEnd\vi\security\Dto\NuevoUsuario.class
 com\portBackEnd\vi\controller\CExperiencia.class
+com\portBackEnd\vi\respository\REducacionImpl.class
 com\portBackEnd\vi\security\Controller\AuthController.class
 com\portBackEnd\vi\controller\CHys.class
 com\portBackEnd\vi\service\SExperiencia.class
@@ -18,6 +20,7 @@ com\portBackEnd\vi\security\Dto\JwtDto.class
 com\portBackEnd\vi\security\jwt\JwtProvider.class
 com\portBackEnd\vi\security\Repository\iUsuarioRepository.class
 com\portBackEnd\vi\security\Entity\Usuario.class
+com\portBackEnd\vi\security\Repository\iUsuarioRepositoryImpl.class
 com\portBackEnd\vi\respository\IPersonaRepository.class
 com\portBackEnd\vi\respository\Rhys.class
 com\portBackEnd\vi\entity\Educacion.class
@@ -27,6 +30,7 @@ com\portBackEnd\vi\entity\Experiencia.class
 com\portBackEnd\vi\dto\dtoEducacion.class
 com\portBackEnd\vi\controller\PersonaController.class
 com\portBackEnd\vi\security\jwt\JwtTokenFilter.class
+com\portBackEnd\vi\respository\IPersonaRepositoryImpl.class
 com\portBackEnd\vi\controller\CEducacion.class
 com\portBackEnd\vi\security\Entity\UsuarioPrincipal.class
 com\portBackEnd\vi\security\enums\rolNombre.class
@@ -35,5 +39,6 @@ com\portBackEnd\vi\security\Service\UsuarioService.class
 com\portBackEnd\vi\dto\dtohys.class
 com\portBackEnd\vi\dto\dtoExperiencia.class
 com\portBackEnd\vi\entity\hys.class
+com\portBackEnd\vi\respository\RhysImpl.class
 com\portBackEnd\vi\security\Repository\iRolRepository.class
 com\portBackEnd\vi\service\Seducacion.class
